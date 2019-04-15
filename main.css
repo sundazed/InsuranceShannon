@@ -135,7 +135,7 @@ img.profile-pic {
 }
 
 .bg-color-grey {
-	background-color: #F2F2F2;
+	background-color: #EBF5FB;
 }
 
 .bg-color-white {
@@ -187,7 +187,7 @@ img.profile-pic {
   }
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 400px) {
   img.profile-pic {
     height: 60%;
     width: 60%;
