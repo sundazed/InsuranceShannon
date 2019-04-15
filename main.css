@@ -187,9 +187,9 @@ img.profile-pic {
   }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 480px) {
   img.profile-pic {
-    height: 60%;
-    width: 60%;
+    height: 80%;
+    width: 80%;
   }
 }
