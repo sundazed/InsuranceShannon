@@ -2,12 +2,12 @@ BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Kitson;Shannon;;;
-FN: Preston  Lim 
+FN: Shannon  Kitson 
 ORG:US Health;
 TITLE:Licensed Health Advisor
 EMAIL;type=INTERNET;type=WORK;type=pref:shannon.kitson@ushadvisors.com
-TEL;type=WORK;type=VOICE:+813 499 4650
-item1.ADR;type=WORK;type=pref:;;10913 N Dixon Ave;Tampa;Florida;33612;USA
+TEL;type=WORK;type=VOICE:+1 813 499 4650
+item1.ADR;type=WORK;type=pref:;;17835 Hunting Bow Circle;Lutz;Florida;33558;USA
 item1.X-ABADR:sg
 item2.URL;type=pref:ushadvisors.com/shannonkitson
 item2.X-ABLabel:_$!<HomePage>!$_
